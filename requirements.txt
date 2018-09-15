@@ -8,7 +8,6 @@ django-filter==2.0.0
 django-heroku==0.3.1
 django-six==1.0.4
 djangorestframework==3.8.2
-GDAL==2.2.4
 gunicorn==19.9.0
 Markdown==2.6.11
 numpy==1.14.2
