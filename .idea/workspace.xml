@@ -21,9 +21,11 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/djangogeo/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="374">
+              <caret line="129" column="32" lean-forward="true" selection-start-line="129" selection-start-column="32" selection-end-line="129" selection-end-column="32" />
+              <folding>
+                <element signature="e#314#323#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -336,7 +338,7 @@
       <option name="presentableId" value="Default" />
       <updated>1536270482746</updated>
       <workItem from="1536270486460" duration="6306000" />
-      <workItem from="1537025077001" duration="10831000" />
+      <workItem from="1537025077001" duration="10968000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1537039495800</created>
@@ -464,11 +466,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537118317739</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="remove django heroku">
+      <created>1537118518921</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1537118518921</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17137000" />
+    <option name="totallyTimeSpent" value="17274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -531,7 +540,8 @@
     <MESSAGE value="added django heoku to req" />
     <MESSAGE value="remove GDAL" />
     <MESSAGE value="added db settings to env vars" />
-    <option name="LAST_COMMIT_MESSAGE" value="added db settings to env vars" />
+    <MESSAGE value="remove django heroku" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove django heroku" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -542,7 +552,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1344">
           <caret line="84" column="5" lean-forward="false" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="e#314#323#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -779,9 +791,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/djangogeo/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="374">
+          <caret line="129" column="32" lean-forward="true" selection-start-line="129" selection-start-column="32" selection-end-line="129" selection-end-column="32" />
+          <folding>
+            <element signature="e#314#323#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
