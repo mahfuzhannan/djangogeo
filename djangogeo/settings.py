@@ -82,9 +82,10 @@ WSGI_APPLICATION = 'djangogeo.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': 'geodb',
-        'USERNAME': 'geouser',
-        'PASSWORD': 'fuckgeo'
+        'NAME':  environ.get('DBNAME'),#'geodb',
+        'USERNAME': environ.get('DBUSER'), #'geouser',
+        'PASSWORD': environ.get('DBPASS'), #'fuckgeo'
+        'HOST': environ.get('DBHOST')
     }
 }
 
