@@ -1,4 +1,4 @@
-#!/Users/mafz/IdeaProjects/djangogeo/geoenv/bin/python2.7
+#!/Users/mafz/IdeaProjects/djangogeo/venv/bin/python2.7
 from django.core import management
 
 if __name__ == "__main__":

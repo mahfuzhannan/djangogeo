@@ -1,4 +1,4 @@
-#!/Users/mafz/IdeaProjects/djangogeo/geoenv/bin/python2.7
+#!/Users/mafz/IdeaProjects/djangogeo/venv/bin/python2.7
 
 # -*- coding: utf-8 -*-
 import re

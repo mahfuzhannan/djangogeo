@@ -1,4 +1,4 @@
-#!/Users/mafz/IdeaProjects/djangogeo/geoenv/bin/python
+#!/Users/mafz/IdeaProjects/djangogeo/venv/bin/python
 
 import sys
 import getopt
